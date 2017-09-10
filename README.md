@@ -6,4 +6,4 @@ Use:This Script finds your Local IP and saves the logs to C://IPViewer_log.txt
 
 How to Run:This script can be easily run in IPro IDE.you should have ipviewer.py & Console.py in the same directory folder like IPViewer
 
-![ScreenShot] (https://github.com/gauravssnl/IPViewer/blob/master/screenshot.jpg )
+![ScreenShot](https://github.com/gauravssnl/IPViewer/blob/master/screenshot.jpg )
